@@ -1,0 +1,61 @@
+.currency {
+  width: 100%;
+  height: 100vh;
+  background: #c29dc5;
+  padding-top: 70px;
+}
+
+.currency-h2 {
+  width: 800px;
+  height: 400px;
+  background: linear-gradient(45deg, rgb(206, 130, 206), pink);
+  margin: auto;
+  padding: 40px 60px;
+  border-radius: 9px;
+}
+
+.hello {
+  width: 400px;
+}
+
+.Amount {
+  margin-top: 50px;
+  display: flex;
+  gap: 30px;
+}
+
+.Amount input {
+  margin-top: 10px;
+  height: 40px;
+  width: 200px;
+  padding-left: 20px;
+}
+
+.converted {
+  margin-top: 90px;
+}
+
+.holo .input {
+  margin-top: 10px;
+  width: 200px;
+  height: 40px;
+  padding-left: 20px;
+}
+
+.holo p {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.converted {
+  background: white;
+  width: 350px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.converted h2 {
+  color: #888;
+}
